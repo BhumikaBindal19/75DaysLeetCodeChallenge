@@ -8,7 +8,7 @@ public:
             {']' , '['}
         };
         for(char i : s){
-            if(i == '(' || i == '{' || i=='[') st.push(i);
+            if(m.find(i)==m.end()) st.push(i);
             // else if(st.empty()) return false;
             // else if(st.top() == m[i]) st.pop();
             // else return false;
