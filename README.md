@@ -121,9 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/BhumikaBindal19/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhumikaBindal19/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/BhumikaBindal19/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/BhumikaBindal19/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
